@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072641084638",
+    "firebase_url": "https://spaxer-7d4f9.firebaseio.com",
+    "project_id": "spaxer-7d4f9",
+    "storage_bucket": "spaxer-7d4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072641084638:android:9784cb190f0adf025d864f",
+        "android_client_info": {
+          "package_name": "com.srinivas.spaxer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072641084638-as20ggokfm2nn3id7uihrguvqhs0kghf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srinivas.spaxer",
+            "certificate_hash": "41297345d0302941ce50425ce3db125d7d428b6a"
+          }
+        },
+        {
+          "client_id": "1072641084638-caadmclmbje82fnslhq763u6tluo0m5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxkhcbEToPVB8jb4VcPsyxD9JTiTJI_W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072641084638-caadmclmbje82fnslhq763u6tluo0m5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
